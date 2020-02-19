@@ -1,0 +1,42 @@
+.app-header {
+	padding: 0px 15px 0px 15px;
+}
+
+.app-title {
+	margin-top: 10px;
+}
+
+.card-header {
+	width: 100%;
+}
+
+.app-text {
+	width: 100%;
+	float: left;
+	margin-top: 15px;
+	padding: 10px 10px 10px 10px;
+	background-color: #fff;
+	border: 1px solid #1cc394;
+
+}
+
+.app-btn {
+	margin-top: 5px;
+}
+
+/*.app-btn > .btn-secondary {
+	color: #676a6c;
+	border: 1px #eee solid;
+	background-color: #fff;
+}*/
+
+.app-btn > .btn-secondary:hover {
+    color: #5a6268;
+    background-color: #fff;
+    border-color: #545b62;
+}
+
+.card-header {
+	border: 1px solid rgba(0,0,0,.125);
+}
+
